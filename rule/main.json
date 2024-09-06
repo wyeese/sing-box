@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "instagram.com",
+        "cdninstagram.com",
+
+        "x.com",
+        "twitter.com",
+        "twimg.com",
+
+        "chatgpt.com",
+        "openai.com",
+
+        "rutracker.org",
+        "rutracker.cc",
+
+        "youtube.com",
+        "youtube.ru",
+        "youtu.be",
+        "yt.be",
+        "ytimg.com",
+        "googlevideo.com",
+        "music.youtube.com",
+
+        "whatismyipaddress.com",
+        "icanhazip.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".instagram.com",
+        ".cdninstagram.com",
+
+        ".x.com",
+        ".twitter.com",
+        ".twimg.com",
+
+        ".chatgpt.com",
+        ".openai.com",
+
+        ".rutracker.org",
+        ".rutracker.cc",
+
+        ".youtube.com",
+        ".youtube.ru",
+        ".youtu.be",
+        ".yt.be",
+        ".ytimg.com",
+        ".googlevideo.com",
+        ".music.youtube.com",
+
+        ".whatismyipaddress.com",
+        ".icanhazip.com"
+      ]
+    }
+  ]
+}
