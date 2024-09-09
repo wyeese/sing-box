@@ -54,6 +54,11 @@
         ".whatismyipaddress.com",
         ".icanhazip.com"
       ]
+    },
+    {
+      "domain_regex": [
+        "yt.*\\.ggpht\\.com"
+      ]
     }
   ]
 }
