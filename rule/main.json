@@ -5,6 +5,9 @@
       "domain": [
         "instagram.com",
         "cdninstagram.com",
+        "facebook.com",
+        "fbcdn.net",
+        "fbsbx.com",
 
         "x.com",
         "twitter.com",
@@ -32,6 +35,9 @@
       "domain_suffix": [
         ".instagram.com",
         ".cdninstagram.com",
+        ".facebook.com",
+        ".fbcdn.net",
+        ".fbsbx.com",
 
         ".x.com",
         ".twitter.com",
