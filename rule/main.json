@@ -27,6 +27,8 @@
         "googlevideo.com",
         "music.youtube.com",
 
+        "medium.com",
+
         "whatismyipaddress.com",
         "icanhazip.com"
       ]
@@ -56,6 +58,8 @@
         ".ytimg.com",
         ".googlevideo.com",
         ".music.youtube.com",
+
+        ".medium.com",
 
         ".whatismyipaddress.com",
         ".icanhazip.com"
