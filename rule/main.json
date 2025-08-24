@@ -1,8 +1,8 @@
 {
-  "version": 1,
+  "version": 3,
   "rules": [
     {
-      "domain": [
+      "domain_suffix": [
         "instagram.com",
         "cdninstagram.com",
         "facebook.com",
@@ -38,44 +38,6 @@
 
         "whatismyipaddress.com",
         "icanhazip.com"
-      ]
-    },
-    {
-      "domain_suffix": [
-        ".instagram.com",
-        ".cdninstagram.com",
-        ".facebook.com",
-        ".fbcdn.net",
-        ".fbsbx.com",
-
-        ".x.com",
-        ".twitter.com",
-        ".twimg.com",
-
-        ".chatgpt.com",
-        ".openai.com",
-
-        ".rutracker.org",
-        ".rutracker.cc",
-        ".rutracker.net",
-        ".maintracker.org",
-
-        ".youtube.com",
-        ".youtube.ru",
-        ".youtu.be",
-        ".yt.be",
-        ".ytimg.com",
-        ".googlevideo.com",
-        ".music.youtube.com",
-
-        ".medium.com",
-        ".spiceworks.com",
-        ".torproject.org",
-        ".sagernet.org",
-        ".pny.com",
-
-        ".whatismyipaddress.com",
-        ".icanhazip.com"
       ]
     },
     {
